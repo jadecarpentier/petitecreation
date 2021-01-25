@@ -1,15 +1,12 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2018-08-18T09:01+02:00
+title: 'Le lancement de la bijouterie Jade Carpentier!'
+date: 2021-01-24T09:01+02:00
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
-image: /images/uploads/news_item-03.jpg
+  L’événement s’est avéré un très grand succès! De nombreuses commandes ont été placées dès la première semaine d’ouverture de la bijouterie Jade Carpentier. Confectionnés avec soin et douceur, tous les bijoux ont été livrés personnellement par Jade au domicile de ses clients. Bien entendu, toutes les livraisons ont été sans contact! N’hésitez pas à nous contacter pour placer votre commande. Prenez note que nous acceptons les commandes personnalisées.
+image: /images/uploads/news_item-01.jpg
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
-
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+L’événement s’est avéré un très grand succès! De nombreuses commandes ont été placées dès la première semaine d’ouverture de la bijouterie Jade Carpentier. Confectionnés avec soin et douceur, tous les bijoux ont été livrés personnellement par Jade au domicile de ses clients. Bien entendu, toutes les livraisons ont été sans contact! N’hésitez pas à nous contacter pour placer votre commande. Prenez note que nous acceptons les commandes personnalisées.
 
 ## A little history
 

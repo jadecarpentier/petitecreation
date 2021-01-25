@@ -1,20 +1,12 @@
 footer
-  = partial 'partials/shared/header-primary'
-
-    nav.navigation
-      ul
-        - data.settings.navigation.nav_items.each do | nav_item |
-          li
-            = nav_link nav_item.label, nav_item.path
-  
   .footer-content
     .container-fluid
       .row
         .newsletter
           form
-            label for="email" Sign up for our newsletter
-            input type="email" name="email" placeholder="Your email address"
-            button type="submit" Submit
+            label for="email" Abonnez-vous à notre infolettre
+            input type="email" name="email" placeholder="Ton adresse courriel"
+            button type="submit" Soumettre
 
         .social
           .icons
