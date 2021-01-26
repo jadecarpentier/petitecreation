@@ -1,12 +1,12 @@
 ---
-title: 'Le lancement de la bijouterie Jade Carpentier!'
+title: 'Le lancement de la bijouterie Petites créations!'
 date: 2021-01-24T09:01+02:00
 description: >-
-  L’événement s’est avéré un très grand succès! De nombreuses commandes ont été placées dès la première semaine d’ouverture de la bijouterie Jade Carpentier. Confectionnés avec soin et douceur, tous les bijoux ont été livrés personnellement par Jade au domicile de ses clients. Bien entendu, toutes les livraisons ont été sans contact! N’hésitez pas à nous contacter pour placer votre commande. Prenez note que nous acceptons les commandes personnalisées.
+  L’événement s’est avéré un très grand succès! De nombreuses commandes ont été placées dès la première semaine d’ouverture de la bijouterie Petites créations.
 image: /images/uploads/news_item-01.jpg
 ---
 
-L’événement s’est avéré un très grand succès! De nombreuses commandes ont été placées dès la première semaine d’ouverture de la bijouterie Jade Carpentier. Confectionnés avec soin et douceur, tous les bijoux ont été livrés personnellement par Jade au domicile de ses clients. Bien entendu, toutes les livraisons ont été sans contact! N’hésitez pas à nous contacter pour placer votre commande. Prenez note que nous acceptons les commandes personnalisées.
+L’événement s’est avéré un très grand succès! De nombreuses commandes ont été placées dès la première semaine d’ouverture de la bijouterie Petites créations. Confectionnés avec soin et douceur, tous les bijoux ont été livrés personnellement par Jade au domicile de ses clients. Bien entendu, toutes les livraisons ont été sans contact! N’hésitez pas à nous contacter pour placer votre commande. Prenez note que nous acceptons les commandes personnalisées.
 
 ## A little history
 
