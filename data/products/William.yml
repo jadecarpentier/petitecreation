@@ -1,1 +1,9 @@
-{"title":"William","date":"Sun Jul 18 2021 00:00:00 GMT-0400 (Eastern Daylight Time)","image":"https://drive.google.com/open?id=19NxtWyGDNol41xbfvkK-aUaVvSQmXu1y","weight":"13","description":"asefwefasefasdf","status":"New"}
+title: William
+date: Sun Jul 18 2021 00:00:00 GMT-0400 (Eastern Daylight Time)
+image: https://drive.google.com/open?id=19NxtWyGDNol41xbfvkK-aUaVvSQmXu1y
+weight: '13'
+price: '12'
+status: 'New'
+body: >-
+    asefwefasefasdf
+    
